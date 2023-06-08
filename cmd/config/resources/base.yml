@@ -1,0 +1,12 @@
+app: base
+server:
+  name: "IS - Vehicular"
+  host: 127.0.0.1
+  timeout: 60
+  port: 9090
+database:
+  name: postgres
+  password:
+  host: 0.0.0.0
+  port: 5432
+  user: postgres

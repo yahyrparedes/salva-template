@@ -1,0 +1,12 @@
+app: prod
+database:
+  host: 0.0.0.0
+  name: postgres
+  password: null
+  port: 5432
+  user: postgres
+server:
+  host: 127.0.0.1
+  name: IS - Vehicular
+  port: 9090
+  timeout: 60

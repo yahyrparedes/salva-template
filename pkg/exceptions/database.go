@@ -1,0 +1,5 @@
+package exceptions
+
+func HandlerExceptionDatabase() {
+
+}
