@@ -1,6 +1,8 @@
-# Salva Template
+# Salva Template (Go Architecture)
 
-# Dependeces
+Salva template easily starter for development apis in go. 
+
+# Dependency
 
 1. [x] Viper (https://github.com/spf13/viper)
 2. [x] Gorm (https://github.com/go-gorm/gorm)
